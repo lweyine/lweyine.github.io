@@ -1,5 +1,6 @@
 ---
 layout: category
 title: page-sample
-category: sample
+category: category
+permalink: /categories/
 ---
