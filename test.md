@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tag
 title: page-sample
 category: sample
 ---
